@@ -62,7 +62,9 @@
 ---
 
 ### 📝 Certifications:
-- 🏅 **Red Hat Certified System Administrator (RHCSA)**
+- 🏅 <strong>Red Hat Certified System Administrator (RHCSA)</strong>  
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+
 
 ---
 
