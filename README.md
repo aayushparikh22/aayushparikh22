@@ -5,11 +5,8 @@
 ---
 
 ### 🚀 About Me:
-- 🛠️ Passionate **DevOps Engineer** with expertise in **CI/CD, Infrastructure as Code (IaC), and Cloud Automation**.
+- 🛠️ Passionate **DevOps Engineer** with expertise in **Infrastructure as Code (IaC), and Cloud Automation**.
 - 🖥️ Skilled in **Jenkins, Docker, Kubernetes, Terraform, and Ansible** for scalable deployments.
-- 🌥️ Experienced in **AWS & Linux Administration** for high-performance cloud solutions.
-- 📚 Currently learning **Kubernetes Operators**.
-
 ---
 
 ### 💻 My Stats:
