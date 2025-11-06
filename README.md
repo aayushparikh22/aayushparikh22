@@ -70,7 +70,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushsp/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushparikh0000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushparikh22)
-[![Resume](https://img.shields.io/badge/Resume-00ADD8?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1JsOLObQMf3PUHgAZQp03OSvjin9tlPjz/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-00ADD8?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1TfdEECtMfEGjfYoOwkZqO36sg4usKxXJ/view?usp=sharing)
 
 ---
 
